@@ -4,7 +4,7 @@ I'm a first-year CS PHD student in **Northwestern University**.
 
 My research focus on System Security(kernel, cloud, user-space programs and etc.).
 
-Before joining Northwestern, I had great time in Tencent Xuanwu Lab and NISL, both as security research intern.
+Before joining Northwestern as a PHD Student, I had great time for security research in Tencent Xuanwu Lab and NU S&P Group.
 
 I also play CTF, as a Pwner, especially on kernel.
 
