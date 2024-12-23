@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+CS PhD @ Northwestern University
+
+- Pwn
+- Program Repair
+- Vulnerability Detection
+- Kernel
+- LLM agent
 <!--
 **haruki3hhh/haruki3hhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
