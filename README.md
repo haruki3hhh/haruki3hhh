@@ -39,4 +39,4 @@ I'm a PhD Candicate in Northwestern University, interested in System Security (O
 6. several working papers...
 
 # 🌱 Realworld
-I like contributing to realworld as a freelance Security Researcher, find and fix vulnerabilities, uncover new attack surfaces
+I like contributing to realworld as a freelance Security Researcher, find and fix vulnerabilities, uncover new attack surfaces, especially Linux Kernel and other lower level infra.
