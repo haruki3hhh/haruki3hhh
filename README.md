@@ -1,7 +1,7 @@
 # 👋 I'm Ziyi Guo
 I'm a PhD Candicate in Northwestern University, interested in System Security (OS, Cloud Infra) ; LLM for Cybersecurity, Agent Security.
 # 🔥 Highlights
-- **Google PHD Fellow** in Security
+- **Google PHD Fellow**
 
 
 - **DARPA AIxCC Finalist**
@@ -11,6 +11,9 @@ I'm a PhD Candicate in Northwestern University, interested in System Security (O
   https://b3yond.org/team#core-members
   
 - **DEF CON CTF Finalist**
+
+  Team r3kapig
+
 # 📚 Publications
 1. Cross Container Attacks: The Bewildered {eBPF} on Clouds.
 
